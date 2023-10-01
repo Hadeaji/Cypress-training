@@ -20,9 +20,21 @@ concepts you should know:
 - Learn CSS for styling web elements
 ...
 
-I recommend checking this course on [SoloLearn](https://www.sololearn.com/learn/courses/le-javascript), then study [promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) on you own,
+### Great resources that you can start with
 
-Or you can choose to take the track on [Exercism](https://exercism.org/tracks/javascript/concepts) and make your way to promises.
+Tracks:-
+- [SoloLearn](https://www.sololearn.com/learn/courses/le-javascript)
+- [Exercism](https://exercism.org/tracks/javascript/concepts)
+- [Codecademy](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
+- [Freecodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+Videos:-
+- [FreeCodeCamp on YT](https://youtu.be/PkZNo7MFNFg?feature=shared)
+- [JavaScript Tutorial for Beginners](https://youtu.be/W6NZfCO5SIk?feature=shared)
+
+> Videos are nice but you need to code by hand
+
+> Note: Some resources don't cover [promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) so you might have to study it on your own.
 
 ### installation:
 
