@@ -20,9 +20,9 @@ concepts you should know:
 - Learn CSS for styling web elements
 ...
 
-I recommend checking this course on [SoloLearn](https://www.sololearn.com/learn/courses/le-javascript), then study [promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) on you own
+I recommend checking this course on [SoloLearn](https://www.sololearn.com/learn/courses/le-javascript), then study [promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) on you own,
 
-Or you can choose to take the track on [Exercism](https://exercism.org/tracks/javascript/concepts)
+Or you can choose to take the track on [Exercism](https://exercism.org/tracks/javascript/concepts) and make your way to promises.
 
 ### installation:
 
